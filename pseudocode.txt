@@ -1,0 +1,7 @@
+1) Get wikipedia content
+   * Format? Source?
+   
+2) Format each page's introduction into an anki note
+   * Format of Anki notes? need intermediate representation?
+   
+3) Package the notes into a deck
